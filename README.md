@@ -3,7 +3,7 @@ Exercícios sobre software requirements - development and management
 
 ## Material na Pasta do Drive:
 
-https://drive.google.com/drive/folders/0B5VWwQ5iiri9V0VrQ2tmY1hEcmc?usp=sharing
+https://drive.google.com/drive/folders/0B5VWwQ5iiri9eVhsTmlPektaUmM?usp=sharing
 
 ### 03/07: Pasta 01-Vision. 
 * Ler exemplo "COS Vision and Scope (example)"; 

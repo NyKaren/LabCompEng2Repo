@@ -12,6 +12,11 @@ https://drive.google.com/drive/folders/0B5VWwQ5iiri9eVhsTmlPektaUmM?usp=sharing
 
 Usar "sem informações" ou "não se aplica" quando pertinente.
 
+### 10/07: Pasta 02-UseCases.
+* Ler exemplo "02-COS Use Cases (example)"; 
+* Copiar e renomear o arquivo "02-Use Case Template" para "SIGLA Use Case", onde SIGLA é a sigla do software desenvolvido por sua equipe; 
+* Fazer o documento de casos de uso para o software de sua equipe: a) identificar "classes de usuários" do software; 
+
 
 ### Próxima tarefa
 
